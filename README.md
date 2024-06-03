@@ -3,13 +3,12 @@
 > A collaborative curated list of awesome SaltStack resources, tutorials and other salted stuff.
 
 <!--lint ignore double-link-->
-[<img src="https://user-images.githubusercontent.com/519955/35341388-d8c0cf0e-0125-11e8-9831-51f13fab58c7.jpg" width="100%">](https://www.saltstack.com/)
+[<img src="https://user-images.githubusercontent.com/519955/35341388-d8c0cf0e-0125-11e8-9831-51f13fab58c7.jpg" width="100%">](https://saltproject.io/)
 
-SaltStack is the other configuration management system built with Python.\
+Salt (often referred to as SaltStack) is the other configuration management system built with Python.\
 It takes a new approach to infrastructure management by developing software that is easy enough to get running in seconds, scalable enough to manage tens of thousands of servers, and fast enough to control and communicate with them in milliseconds.\
-SaltStack software manages system infrastructure and the application stacks that run on it and is used by web-scale application developers, DevOps teams and systems administrators.
-
-A :gem: means **really _awesome / useful_**.
+SaltStack software manages system infrastructure and the application stacks that run on it and is used by web-scale application developers, DevOps teams and systems administrators.\
+VMware acquired SaltStack in October 2020.
 
 ## Contents
 
@@ -32,7 +31,6 @@ A :gem: means **really _awesome / useful_**.
 ## Official resources
 
 <!--lint ignore double-link-->
-- [SaltStack site](https://www.saltstack.com/) - Company website.
 - [Salt Project site](https://saltproject.io/) - Salt Project (Salt Open Source) website.
 - [vRealize Automation SaltStack Config](https://www.vmware.com/products/vrealize-automation/saltstack-config.html) - vRealize Automation SaltStack Config website at VMware (new name for commercial SaltStack product).
 - [GitHub repo](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
@@ -40,7 +38,7 @@ A :gem: means **really _awesome / useful_**.
 - [SaltStack Documentation](https://docs.saltproject.io/en/latest/) - Official documentation.
 - [Salt in 10 minutes](https://docs.saltproject.io/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
 <!--lint ignore awesome-list-item-->
-- [SaltStack Get Started](https://docs.saltproject.io/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
+- [SaltStack Get Started](https://docs.saltproject.io/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running.
 - [Training and certification](https://www.saltstack.com/products/saltstack-training/) - Official training.
 - [Jinja2 documentation](http://jinja.pocoo.org/docs/latest/) - This official documentation covers the used templating language in Salt.
 - [Salt Module Contributions](https://github.com/saltstack/salt-contrib) - Salt modules developed by the community.
@@ -48,7 +46,7 @@ A :gem: means **really _awesome / useful_**.
 ## Tutorials
 
 <!--lint ignore awesome-list-item-->
-- [About SaltStack](http://www.yet.org/2016/09/salt/) - Extensive blogpost with lots of in-depth information. :gem:
+- [About SaltStack](http://www.yet.org/2016/09/salt/) - Extensive blogpost with lots of in-depth information.
 - [A dive into SaltStack](https://opencredo.com/a-dive-into-salt-stack/) - SaltStack uncovered - Configuration management has been a big leap forward for System Engineers.
 - [How To Use Salt Cloud Map Files to Deploy App Servers and an Nginx Reverse Proxy](https://www.digitalocean.com/community/tutorials/how-to-use-salt-cloud-map-files-to-deploy-app-servers-and-an-nginx-reverse-proxy) - Walkthrough on how to use Salt Cloud Map Files to deploy application servers and an Nginx reverse proxy.
 - [An Introduction to SaltStack Terminology and Concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-saltstack-terminology-and-concepts) - Part 1 of 6 in the series _Managing Development Environments with SaltStack_.
@@ -148,7 +146,7 @@ A :gem: means **really _awesome / useful_**.
 - [Vagrant Provisioning with SaltStack](https://medium.com/@Joachim8675309/vagrant-provisioning-with-saltstack-50dab12ce6c7) - Provisioning Virtual System using Masterless Salt Stack.
 - [Salt DevKit with External Formulas](https://medium.com/@Joachim8675309/salt-devkit-with-external-formulas-9e38d8b90cd7) - Local Development with Vagrant using external Salt formulas.
 <!--lint ignore awesome-list-item-->
-- [Prometheus - Auto-deploying Consul and Exporters using Saltstack](https://yetiops.net/posts/prometheus-consul-saltstack-part-1-linux/) - How to deploy SaltStack, Consul and the Prometheus Node Exporter on Linux. :gem:
+- [Prometheus - Auto-deploying Consul and Exporters using Saltstack](https://yetiops.net/posts/prometheus-consul-saltstack-part-1-linux/) - How to deploy SaltStack, Consul and the Prometheus Node Exporter on Linux.
 - [Network Automation at Scale](https://mirceaulinic.net/2017-02-14-network-automation-tutorial/) - Up and running in 60 minutes.
 - [SaltStack Overview](https://saidvandeklundert.net/2020-03-20-saltstack-overview/) - An excellent overview and introduction of Salt.
 - [Parsing Command Output in Saltstack with JC](https://blog.kellybrazil.com/2020/09/15/parsing-command-output-in-saltstack-with-jc/) - How to easily parse remote command output in SaltStack, using `jc`.
@@ -177,7 +175,7 @@ A :gem: means **really _awesome / useful_**.
 - [Salt Formulas](https://github.com/salt-formulas) - A community developed SaltStack formulas ecosystem.
 - [Writing SaltStack formulas](http://ryepup.unwashedmeme.com/blog/2015/03/16/writing-saltstack-formulas/) - An overview on writing SaltStack formulas.
 <!--lint ignore awesome-list-item-->
-- [Salt Formulas](http://www.yet.org/2016/09/salt-formulas/) In-depth blogpost about Salt Formulas. :gem:
+- [Salt Formulas](http://www.yet.org/2016/09/salt-formulas/) In-depth blogpost about Salt Formulas.
 
 ## Cheat sheets
 
